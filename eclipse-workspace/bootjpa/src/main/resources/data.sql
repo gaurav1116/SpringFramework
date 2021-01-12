@@ -1,1 +1,5 @@
-insert into alien values (101,'Gaurav')
+insert into alien values (101,'Gaurav','Android')
+insert into alien values (102,'Priti','Machine Learning')
+insert into alien values (103,'Arvind','Spring')
+insert into alien values (104,'Ankita','AWS')
+insert into alien values (105,'Professor','Heist')
